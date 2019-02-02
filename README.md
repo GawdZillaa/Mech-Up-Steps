@@ -5,3 +5,6 @@
 <br>
 
 <h6> Java / Android Studio / MySqlite DB. / MySql DB </h6>
+
+<h7> In Development...</h7>
+
