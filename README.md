@@ -1,2 +1,2 @@
 # Mech-Up-Steps
-<p> lool </p>
+<p> Exercise App for the Mech Up Game </p>
